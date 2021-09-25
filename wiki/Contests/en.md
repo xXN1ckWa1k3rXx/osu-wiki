@@ -123,7 +123,7 @@ The **Community Mapping Contest** is a mapping contest where participating mappe
 
 #### A Labour of Love
 
-**A Labour of Love** is a team-based contest spanning over multiple artistic disciplines where participating teams are tasked to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/background video as a visual accompaniment to said beatmap. As [indicated by this tweet](https://twitter.com/ppy/status/1333362145224843264 "Twitter"), the contest is modeled after [THE BMS OF FIGHTERS events](https://www.bmsoffighters.net/ "BMS OF FIGHTERS") and other similar competitions.
+**A Labour of Love** is a team-based contest spanning over multiple artistic disciplines where participating teams are tasked to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/background video as a visual accompaniment to said beatmap. As [indicated by this tweet](https://twitter.com/ppy/status/1333362145224843264), the contest is modeled after [THE BMS OF FIGHTERS events](https://www.bmsoffighters.net/) and other similar competitions.
 
 | Contest No. | Remixed Song | ![Gold crown][GCrown] (Overall Winner) | ![Silver crown][SCrown] (Overall Runner-Up) | Community Vote Winner | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -171,7 +171,7 @@ The **Fan Art Contest** is a drawing contest where participating artists from th
 | [#13 (Spring 2018)](https://osu.ppy.sh/home/news/2018-04-03-spring-2018-fanart-contest) | Spring | ![][flag_FI] [Sunako](https://osu.ppy.sh/users/2801166) | ![][flag_JP] [In those days](https://osu.ppy.sh/users/7295733) | ![][flag_RU] [Leissss](https://osu.ppy.sh/users/4750716) | [#1](https://osu.ppy.sh/home/news/2018-05-02-spring-2018-fanart-contest-results) |
 | [#14 (Summer 2018)](https://osu.ppy.sh/home/news/2018-07-18-summer-2018-fanart-contest) | Summer | ![][flag_DE] [Evaine](https://osu.ppy.sh/users/7295733) | ![][flag_AT] [Alba](https://osu.ppy.sh/users/12164832) | ![][flag_FR] [Sylux6](https://osu.ppy.sh/users/2607507) | [#1](https://osu.ppy.sh/home/news/2018-08-09-summer-2018-fanart-contest-results) |
 | [#15 (Halloween 2018)](https://osu.ppy.sh/home/news/2018-10-03-halloween-2018-fanart-contest) | Halloween | ![][flag_US] [2Su](https://osu.ppy.sh/users/6598966) | ![][flag_FI] [Sunako](https://osu.ppy.sh/users/2801166) | ![][flag_TW] [h-alice0430](https://osu.ppy.sh/users/12764300) | [#1](https://osu.ppy.sh/home/news/2018-10-23-halloween-2018-descends) |
-| [#16 (Winter 2018)](https://osu.ppy.sh/home/news/2018-11-19-winter-2018-fanart-contest) | Halloween | ![][flag_PL] [Chiruuu](https://osu.ppy.sh/users/8911572) | ![][flag_VN] [PlsRyder](https://osu.ppy.sh/users/3457622) | ![][flag_US] [Shuuzo](https://osu.ppy.sh/users/3661521) | [#1](https://osu.ppy.sh/home/news/2018-12-12-winter-2018-is-here) |
+| [#16 (Winter 2018)](https://osu.ppy.sh/home/news/2018-11-19-winter-2018-fanart-contest) | Winter | ![][flag_PL] [Chiruuu](https://osu.ppy.sh/users/8911572) | ![][flag_VN] [PlsRyder](https://osu.ppy.sh/users/3457622) | ![][flag_US] [Shuuzo](https://osu.ppy.sh/users/3661521) | [#1](https://osu.ppy.sh/home/news/2018-12-12-winter-2018-is-here) |
 | [#17 (Spring 2019)](https://osu.ppy.sh/home/news/2019-05-10-spring-2019-fanart-contest) | Spring | ![][flag_US] [Tofumang](https://osu.ppy.sh/users/4817223) | ![][flag_FI] [Sunako](https://osu.ppy.sh/users/2801166) | ![][flag_CH] [Pvtz](https://osu.ppy.sh/users/4698044) | [#1](https://osu.ppy.sh/home/news/2019-06-03-spring-2019-fanart-contest-results) |
 | [#18 (Summer 2019)](https://osu.ppy.sh/home/news/2019-07-12-summer-2019-fanart-contest) | Summer | ![][flag_FI] [Sunako](https://osu.ppy.sh/users/2801166) | ![][flag_CH] [ItsBluu](https://osu.ppy.sh/users/6946083) | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) | [#1](https://osu.ppy.sh/home/news/2019-08-08-summer-2019-fanart-contest-results) |
 | [#19 (Halloween 2019)](https://osu.ppy.sh/home/news/2019-10-09-halloween-fanart-contest) | Halloween | ![][flag_FI] [Sunako](https://osu.ppy.sh/users/2801166) | ![][flag_NZ] [SJPumpkin](https://osu.ppy.sh/users/4840900) | ![][flag_NL] [157](https://osu.ppy.sh/users/9315038) | [#1](https://osu.ppy.sh/home/news/2019-10-31-osu-spooktacular-halloween-special) |
@@ -192,7 +192,7 @@ The *osu! Beatmap Blueprints Contest* is a one-off contest held in commemoration
 
 #### osu!idol
 
-**osu!idol** is a singing contest where participants from all across the community compete to create the best song cover (either solo or with a partner) across multiple judging and community voting stages. The contest is named after the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise) "Wikipedia") and is mainly inspired by various televised singing competition shows.
+**osu!idol** is a singing contest where participants from all across the community compete to create the best song cover (either solo or with a partner) across multiple judging and community voting stages. The contest is named after the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise)) and is mainly inspired by various televised singing competition shows.
 
 | Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Winning Song | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -224,7 +224,9 @@ The **Skinning Contest** is a skinning contest where artistic creators from all 
 
 *Unofficial contests* are contests that are hosted by the members of the community.
 
-### osu! Beatmapping World Championship <!-- Yes, OBWC is not an official contest according to https://twitter.com/paichiru/status/1408900730149249025 -->
+### osu! Beatmapping World Championship
+
+<!-- Yes, OBWC is not an official contest according to https://twitter.com/paichiru/status/1408900730149249025 -->
 
 **osu! Beatmapping World Championship** is a team-based mapping contest where participating teams consisting of mappers from the same country, region, or even continent (to some extent) battle their mapping skills out against each other across multiple songs and mapping stages. The contest is known for exclusively making use of songs available in the [Featured Artist](/wiki/Featured_Artists) library during its runs.
 

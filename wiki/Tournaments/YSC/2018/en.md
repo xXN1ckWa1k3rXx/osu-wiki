@@ -8,7 +8,7 @@ tags:
 
 ![YSC 2018 logo](img/logo.jpg)
 
-The **Yaz's Summer Cup 2018** (***YSC 2018***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the second instalment of Yaz's Summer Cup.
+**Yaz's Summer Cup 2018** (***YSC 2018***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the second instalment of Yaz's Summer Cup.
 
 ## Tournament schedule
 
@@ -55,16 +55,16 @@ Yaz's Summer Cup 2018 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/745617)
-- [Challonge](https://challonge.com/YSC2018 "Challonge")
-- [Discord](https://discord.gg/brQzjbb "Discord")
-- [Livestream](https://www.twitch.tv/summer_cup_osu "Twitch")
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1WtnGJAAhkwrYsQgado0hciHonb4FTULREGJ8_yRw6zA/edit?usp=sharing "Google Sheets")
+- [Challonge](https://challonge.com/YSC2018)
+- [Discord](https://discord.gg/brQzjbb)
+- [Livestream](https://www.twitch.tv/summer_cup_osu)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1WtnGJAAhkwrYsQgado0hciHonb4FTULREGJ8_yRw6zA/edit?usp=sharing)
 
 ## Participants
 
 | Group | Members |
 | :-: | :-- |
-| Group A | ![][flag_GB] **[sut\_son]([link](https://osu.ppy.sh/users/9622163))**, ![][flag_PL] **[Malolat](https://osu.ppy.sh/users/4317480)**, ![][flag_CA] [principe](https://osu.ppy.sh/users/2796962), ![][flag_JP] [Natori Sana](https://osu.ppy.sh/users/3540294) |
+| Group A | ![][flag_GB] **[sut\_son](https://osu.ppy.sh/users/9622163)**, ![][flag_PL] **[Malolat](https://osu.ppy.sh/users/4317480)**, ![][flag_CA] [principe](https://osu.ppy.sh/users/2796962), ![][flag_JP] [Natori Sana](https://osu.ppy.sh/users/3540294) |
 | Group B | ![][flag_AT] **[Teppi](https://osu.ppy.sh/users/1371974)**, ![][flag_PL] **[Piggey](https://osu.ppy.sh/users/4163860)**, ![][flag_GB] [Topsp1n](https://osu.ppy.sh/users/7657761), ![][flag_PL] [Kurogami](https://osu.ppy.sh/users/4435332) |
 | Group C | ![][flag_US] **[Woey](https://osu.ppy.sh/users/3792472)**, ![][flag_KR] **[Yaong](https://osu.ppy.sh/users/1883865)**, ![][flag_US] [Jensen](https://osu.ppy.sh/users/4719055), ![][flag_GB] [Wario](https://osu.ppy.sh/users/4361729) |
 | Group D | ![][flag_US] **[BeasttrollMC](https://osu.ppy.sh/users/3171691)**, ![][flag_US] **[conradmittn](https://osu.ppy.sh/users/8208289)**, ![][flag_RU] [\_Kyori](https://osu.ppy.sh/users/6660546), ![][flag_AU] [GranDSenpai](https://osu.ppy.sh/users/3997580) |
@@ -74,14 +74,14 @@ Yaz's Summer Cup 2018 was run by various community members.
 | Group H | ![][flag_GB] **[Bubbleman](https://osu.ppy.sh/users/5182050)**, ![][flag_US] **[Num5119](https://osu.ppy.sh/users/5198060)**, ![][flag_HU] [Lexion](https://osu.ppy.sh/users/5271371), ![][flag_CA] [alkalde](https://osu.ppy.sh/users/7314046) |
 | Group I | ![][flag_FR] **[Flaven](https://osu.ppy.sh/users/3213239)**, ![][flag_AU] **[CeilingWaffle](https://osu.ppy.sh/users/3336090)**, ![][flag_US] [he rack](https://osu.ppy.sh/users/2644828), ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027) |
 | Group J | ![][flag_PL] **[Alien](https://osu.ppy.sh/users/4743869)**, ![][flag_PL] **[-NeBu-](https://osu.ppy.sh/users/4099626)**, ![][flag_JP] [\_YuriNee](https://osu.ppy.sh/users/1794082), ![][flag_GB] [Electovoid](https://osu.ppy.sh/users/6648263) |
-| Group K | ![][flag_GB] **[Doomsday](https://osu.ppy.sh/users/18983)**, ![][flag_PL] **[MrBooM](https://osu.ppy.sh/users/1837989)**, ![][flag_AU] [Eta Carinae](https://osu.ppy.sh/users/5841333), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/users/4012086) |
+| Group K | ![][flag_GB] **[Doomsday](https://osu.ppy.sh/users/18983)**, ![][flag_PL] **[MrBooM](https://osu.ppy.sh/users/1837989)**, ![][flag_AT] [Eta Carinae](https://osu.ppy.sh/users/5841333), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/users/4012086) |
 | Group L | ![][flag_JP] **[Angel Arrow](https://osu.ppy.sh/users/1970239)**, ![][flag_PL] **[QbaDoo](https://osu.ppy.sh/users/2395405)**, ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_MA] [FGSky](https://osu.ppy.sh/users/2094566) |
 | Group M | ![][flag_US] **[Apraxia](https://osu.ppy.sh/users/4194445)**, ![][flag_AU] **[Jordan The Bear](https://osu.ppy.sh/users/7477458)**, ![][flag_RU] [z0mbir](https://osu.ppy.sh/users/4939107), ![][flag_EE] [Tiger Claw](https://osu.ppy.sh/users/2064445) |
 | Group N | ![][flag_CA] **[Azer](https://osu.ppy.sh/users/2155578)**, ![][flag_GB] **[Woffel](https://osu.ppy.sh/users/3915122)**, ![][flag_SE] [Saika-](https://osu.ppy.sh/users/4316633), ![][flag_ES] [Betwin](https://osu.ppy.sh/users/1968481) |
 | Group O | ![][flag_US] **[fieryrage](https://osu.ppy.sh/users/3533958)**, ![][flag_US] **[DigitalHypno](https://osu.ppy.sh/users/4384207)**, ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106), ![][flag_DE] [respektive](https://osu.ppy.sh/users/1023489) |
 | Group P | ![][flag_RO] **[Chamosiala](https://osu.ppy.sh/users/1469892)**, ![][flag_CN] **[davidqu2](https://osu.ppy.sh/users/6090175)**, ![][flag_US] [Cappy](https://osu.ppy.sh/users/6668666), ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995) |
 
-See the [participants sheet](https://docs.google.com/spreadsheets/d/1WtnGJAAhkwrYsQgado0hciHonb4FTULREGJ8_yRw6zA/edit#gid=1453703532 "Google Sheets") for a list of all 124 initial participants.
+See the [participants sheet](https://docs.google.com/spreadsheets/d/1WtnGJAAhkwrYsQgado0hciHonb4FTULREGJ8_yRw6zA/edit#gid=1453703532) for a list of all 124 initial participants.
 
 ## Podium
 
@@ -240,7 +240,7 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   - [MY FIRST STORY - START OVER (Saut) [Extreme]](https://osu.ppy.sh/beatmapsets/294063#osu/661286)
-  - [celas - Azul (Remix) (N a s y a) [Extra]](https://api.chimu.moe/v1/download/302545?n=1 "Chimu.moe")
+  - [celas - Azul (Remix) (N a s y a) [Extra]](https://api.chimu.moe/v1/download/302545?n=1)
   - [Yousei Teikoku - Kuusou Mesorogiwi (Saten) [DEAD END]](https://osu.ppy.sh/beatmapsets/40873#osu/139525)
   - [YUC'e - Sengoku HOP (Nathan) [Gamu's Extra]](https://osu.ppy.sh/beatmapsets/564329#osu/1475812)
   - [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro (Shiirn) [Decay]](https://osu.ppy.sh/beatmapsets/436978#osu/941044)
@@ -650,10 +650,10 @@ Monday, 9 July 2018:
 | --: | :-: | :-: | :-- | :-- |
 | MrBooM ![][flag_PL] | 1 | **4** | ![][flag_GB] **Doomsday** | [#1](https://osu.ppy.sh/community/matches/43782604) |
 | **MrBooM** ![][flag_PL] | **1** | 0 | ![][flag_AU] Monk Gyatso | *forfeit* |
-| **MrBooM** ![][flag_PL] | **4** | 0 | ![][flag_AU] Eta Carinae | [#1](https://osu.ppy.sh/community/matches/43808957) |
+| **MrBooM** ![][flag_PL] | **4** | 0 | ![][flag_AT] Eta Carinae | [#1](https://osu.ppy.sh/community/matches/43808957) |
 | **Doomsday** ![][flag_GB] | **1** | 0 | ![][flag_AU] Monk Gyatso | *forfeit* |
-| **Doomsday** ![][flag_GB] | **4** | 0 | ![][flag_AU] Eta Carinae | [#1](https://osu.ppy.sh/community/matches/43785512) |
-| Monk Gyatso ![][flag_AU] | 0 | **1** | ![][flag_AU] **Eta Carinae** | *forfeit* |
+| **Doomsday** ![][flag_GB] | **4** | 0 | ![][flag_AT] Eta Carinae | [#1](https://osu.ppy.sh/community/matches/43785512) |
+| Monk Gyatso ![][flag_AU] | 0 | **1** | ![][flag_AT] **Eta Carinae** | *forfeit* |
 
 #### Group L
 
@@ -804,7 +804,7 @@ Thursday, 21 June 2018:
 - This tournament is a 1v1 international osu! tournament.
 - This tournament will consist of 128 players.
 - Matches will be head to head, with score v2 as the scoring system used.
-- There will be no rank limit on signups, however if we reach 120 signups we will take the top 120 players in terms of rank.
+- There will be no rank limit on sign-ups, however if we reach 120 sign-ups we will take the top 120 players in terms of rank.
 - The Top 4 from YSC 2017 (![][flag_US] [Donkey Kong](https://osu.ppy.sh/users/4787150), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), ![][flag_KR] [Cookiezi](https://osu.ppy.sh/users/124493) and ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578)) all have automatic qualifications into the Group Stage should they accept their invitation.
 - Ranks will be taken and locked when registrations have concluded
 - Anyone who does sign up must be able to play maps with a difficulty of at least 5*.
@@ -821,7 +821,7 @@ Thursday, 21 June 2018:
 - Referees will create the lobby and invite players 10 minutes before the match is due to start.
 - Any player that fails to show up 10 minutes after a match is due to start will forfeit the match and a win by default will be awarded to the other player.
 - Failure to attend a match without a valid reason may result in being blacklisted from participating in future tournaments.
-- The referee will have host at all times during the match. The only exception are for picking warmups.
+- The referee will have host at all times during the match. The only exception are for picking warm-ups.
 - Players will have 90 seconds to ban a map. Failure to ban a map after this time will result in a loss of a ban.
 - Players will have 90 seconds to pick a map. Failure to pick a map after this time will result in the pick being passed to their opponent.
 - Disconnects during the first 30 seconds of the map will result in the map being replayed. Any disconnections after this will result in a forfeit of that map.
@@ -836,7 +836,7 @@ Thursday, 21 June 2018:
 
 ### Qualifiers and Group stage
 
-- There will be no warmups and one ban per player.
+- There will be no warm-ups and one ban per player.
 - Players will roll once. The winner of that roll will ban and pick first.
 - In groups, there will be one top, one high, one mid and one low seeded player per group, which will be drawn randomly.
 - During these stages, players are not allowed to choose from the same mod bracket (HD/HR/DT/FreeMod) twice in a row. This excludes the NoMod and FreeMod pool.
@@ -845,8 +845,8 @@ Thursday, 21 June 2018:
 ### Knockout stages
 
 - Seeding for knockouts will be as follows: Group A #1 vs Group B #2 etc.
-- In this stage, there will be warmups and 2 bans per player.
-- Players will roll once. The winner will have the first warmup, first ban and first pick.
+- In this stage, there will be warm-ups and 2 bans per player.
+- Players will roll once. The winner will have the first warm-up, first ban and first pick.
 - In these stages, players are free to pick from any mod bracket.
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
